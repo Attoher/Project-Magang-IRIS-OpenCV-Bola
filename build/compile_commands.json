@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntu/Project/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/PROJECT.dir/src/Bola1.cpp.o -c /home/ubuntu/Project/src/Bola1.cpp",
+  "file": "/home/ubuntu/Project/src/Bola1.cpp"
+}
+]
